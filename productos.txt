@@ -1,0 +1,1 @@
+[]"title":"microondas","price":250,"thumbnail":"http://demo/microondas","id":1},{"title":"cocina","price":1500,"thumbnail":"http://demo/cocina","id":3}]title":"cocina","price":1500,"thumbnail":"http://demo/cocina","id":3}]
